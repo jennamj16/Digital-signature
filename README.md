@@ -7,6 +7,8 @@ Generate a Key Pair (Public & Private Key) using DSA.
 Sign a Message using the private key.
 Generate a Digital Signature with SHA-256 hashing.
 Verify the Signature using the public key.
+
+
 📌 Features
 ✔️ Uses DSA (Digital Signature Algorithm) for security.
 ✔️ Implements SHA-256 for hashing.
